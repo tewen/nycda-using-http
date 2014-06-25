@@ -1,0 +1,26 @@
+{
+    "name": "nycda-using-http",
+    "version": "0.0.1",
+    "homepage": "https://github.com/tewen/nycda-using-http",
+    "authors": [
+        "Trevor Ewen"
+    ],
+    "description": "A sample application for using the $http service.",
+    "license": "GNU",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "1.2.16",
+        "sass-bootstrap": "~3.0.2"
+    },
+    "devDependencies": {
+        "angular-resource": "1.2.16",
+        "angular-mocks": "1.2.16"
+    }
+}
